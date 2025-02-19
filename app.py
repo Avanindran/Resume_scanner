@@ -88,14 +88,6 @@ def process_resume(file_path):
     "skills": skills
   }
 
-  
-
-
-
-
-  
-
-
 
 
 app = Flask(__name__)
